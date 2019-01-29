@@ -4,9 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Billy, a student double majoring in Computer Science and Interactive Media Arts at NYU Shanghai. I am a web front-end developer. JavaScript is my primary programming language and I am proficient in developing websites using Vue.js.
 
-### More Information
+[My Personal Website](https://im.billyzou.com)
 
-A place to include any other types of information that you'd like to include about yourself.
+### Tech Stack
+
+- Vue.js
+- Node.js (Express)
+- Sass
+- MongoDB
+- Python (Flask, Django)
 
