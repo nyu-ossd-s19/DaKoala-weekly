@@ -19,8 +19,7 @@ Replace the first row with your contribution.
 
 
 | Week #       | Contribution (Link)  | Type  | Description | 
-|:---:|:---:|:---:|:---:| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
+|:---:|:---:|:---:|:---:|
 | 2 | [issue](https://github.com/nyu-ossd-s19/andreawaxman-weekly/issues/3) & [PR](https://github.com/nyu-ossd-s19/andreawaxman-weekly/pull/4)| classmate blog | I fixed the wrong base URL configuration and broken Linkedin link |
 | 2 | [issue](https://github.com/nyu-ossd-s19/anthonykyi-weekly/issues/2) & [PR](https://github.com/nyu-ossd-s19/anthonykyi-weekly/pull/3) | classmate blog | I fixed the wrong base URL configuration and changed the avatar to the student's own GitHub avatar |
 | 2 | [issue](https://github.com/nyu-ossd-s19/gracey715-weekly/issues/1) & [PR](https://github.com/nyu-ossd-s19/gracey715-weekly/pull/2) | classmate blog | I changed the avatar to the student's own GitHub avatar |
