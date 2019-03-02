@@ -24,3 +24,4 @@ Replace the first row with your contribution.
 | 2 | [issue](https://github.com/nyu-ossd-s19/anthonykyi-weekly/issues/2) & [PR](https://github.com/nyu-ossd-s19/anthonykyi-weekly/pull/3) | classmate blog | I fixed the wrong base URL configuration and changed the avatar to the student's own GitHub avatar |
 | 2 | [issue](https://github.com/nyu-ossd-s19/gracey715-weekly/issues/1) & [PR](https://github.com/nyu-ossd-s19/gracey715-weekly/pull/2) | classmate blog | I changed the avatar to the student's own GitHub avatar |
 | 3 | [issue](https://github.com/nyu-ossd-s19/Joannify/issues/11) | classmate extension | A feature request |
+| 5 | [issue](https://github.com/vuejs/vue/issues/9606) | Vue.js | I pointed out an unclear instruction on installing dependencies |
