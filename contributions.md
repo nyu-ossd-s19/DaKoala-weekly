@@ -25,3 +25,4 @@ Replace the first row with your contribution.
 | 2 | [issue](https://github.com/nyu-ossd-s19/gracey715-weekly/issues/1) & [PR](https://github.com/nyu-ossd-s19/gracey715-weekly/pull/2) | classmate blog | I changed the avatar to the student's own GitHub avatar |
 | 3 | [issue](https://github.com/nyu-ossd-s19/Joannify/issues/11) | classmate extension | A feature request |
 | 5 | [issue](https://github.com/vuejs/vue/issues/9606) | Vue.js | I pointed out an unclear instruction on installing dependencies |
+| 7 | [issue](https://github.com/Microsoft/TypeScript/issues/30649) | TypeScript | There is an untranslated paragraph in the Chinese documentation and I would like to translate it. |
