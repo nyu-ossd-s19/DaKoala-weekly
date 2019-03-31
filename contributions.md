@@ -26,3 +26,4 @@ Replace the first row with your contribution.
 | 3 | [issue](https://github.com/nyu-ossd-s19/Joannify/issues/11) | classmate extension | A feature request |
 | 5 | [issue](https://github.com/vuejs/vue/issues/9606) | Vue.js | I pointed out an unclear instruction on installing dependencies |
 | 9 | [issue](https://github.com/Microsoft/TypeScript/issues/30649) | TypeScript | There is an untranslated paragraph in the Chinese documentation and I would like to translate it. |
+| 9 | [PR](https://github.com/joannakl/ossd_s19/pull/7) | Course Website | Fix the wrong date of a class on 2/13 |
