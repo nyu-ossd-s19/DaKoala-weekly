@@ -27,3 +27,4 @@ Replace the first row with your contribution.
 | 5 | [issue](https://github.com/vuejs/vue/issues/9606) | Vue.js | I pointed out an unclear instruction on installing dependencies |
 | 9 | [issue](https://github.com/Microsoft/TypeScript/issues/30649) | TypeScript | There is an untranslated paragraph in the Chinese documentation and I would like to translate it. |
 | 9 | [PR](https://github.com/joannakl/ossd_s19/pull/7) | Course Website | Fix the wrong date of a class on 2/13 |
+| 10 | [issue](https://github.com/ElemeFE/element/issues/14946) | Element-ui | Report a bug I confronted in my own development |
