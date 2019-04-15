@@ -33,3 +33,4 @@ Replace the first row with your contribution.
 | 11 | [PR](https://github.com/vuejs/vue/pull/9848) (merged) | Vue.js | I added instruction on how to install yarn for contributors do not have it because it is necessary for contributors to install dependencies. |
 | 11 | [PR](https://github.com/vuejs/vue/pull/9858) (merged) | Vue.js | I fixed a grammar error in the contributing document |
 | 11 | [comment](https://github.com/vuejs/vue/issues/9661) | Vue.js | I commented on a feature request issue |
+| 12 | [comment](https://github.com/vuejs/vue/issues/9873) | Vue.js | I shared my experience in the past about using the same tool as the one who posted the issue. |
