@@ -35,3 +35,4 @@ Replace the first row with your contribution.
 | 11 | [comment](https://github.com/vuejs/vue/issues/9661) | Vue.js | I commented on a feature request issue |
 | 12 | [comment](https://github.com/vuejs/vue/issues/9873) | Vue.js | I shared my experience in the past about using the same tool as the one who posted the issue. |
 | 12 | [issue](https://github.com/shiffman/Black-Hole-Simulation/issues/3) | Dan Shiffman's coding tutorial | I found a typo in the description of the repository. |
+| 12 | [PR](https://github.com/joannakl/ossd_s19/pull/13) | Course Website | I fixed dates of all posts, including those to be posted in the future. |
