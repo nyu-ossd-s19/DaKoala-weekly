@@ -32,8 +32,8 @@ Replace the first row with your contribution.
 | 10 | [PR](https://github.com/nyu-ossd-s19/LifeVirus-weekly/pull/2) | classmate blog | I fixed the link of the avatar in a student's blog page |
 | 11 | [PR](https://github.com/vuejs/vue/pull/9848) (merged) | Vue.js | I added instruction on how to install yarn for contributors do not have it because it is necessary for contributors to install dependencies. |
 | 11 | [PR](https://github.com/vuejs/vue/pull/9858) (merged) | Vue.js | I fixed a grammar error in the contributing document |
-| 11 | [comment](https://github.com/vuejs/vue/issues/9661) | Vue.js | I commented on a feature request issue |
-| 12 | [comment](https://github.com/vuejs/vue/issues/9873) | Vue.js | I shared my experience in the past about using the same tool as the one who posted the issue. |
+| 11 | [comment](https://github.com/vuejs/vue/issues/9661#issuecomment-482172760) | Vue.js | I commented on a feature request issue |
+| 12 | [comment](https://github.com/vuejs/vue/issues/9873#issuecomment-483387349) | Vue.js | I shared my experience in the past about using the same tool as the one who posted the issue. |
 | 12 | [issue](https://github.com/shiffman/Black-Hole-Simulation/issues/3) | Dan Shiffman's coding tutorial | I found a typo in the description of the repository. |
 | 12 | [PR](https://github.com/joannakl/ossd_s19/pull/13) | Course Website | I fixed dates of all posts, including those to be posted in the future. |
-| 12 | [comment](https://github.com/vuejs/vue/issues/9573) | Vue.js | I did some workaround on an issue. However, I did not get a solution. Before I continue my work on this issue, I posted some clues I discovered. |
+| 12 | [comment](https://github.com/vuejs/vue/issues/9573#issuecomment-485058632) | Vue.js | I did some work on an issue. However, I did not get a solution. Before I continue my work on this issue, I posted some clues I discovered. |
