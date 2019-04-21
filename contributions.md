@@ -38,3 +38,4 @@ Replace the first row with your contribution.
 | 12 | [PR](https://github.com/joannakl/ossd_s19/pull/13) | Course Website | I fixed dates of all posts, including those to be posted in the future. |
 | 12 | [comment](https://github.com/vuejs/vue/issues/9573#issuecomment-485058632) | Vue.js | I did some work on an issue. However, I did not get a solution. Before I continue my work on this issue, I posted some clues I discovered. |
 | 12 | [workaround](https://github.com/vuejs/vue/issues/9573#issuecomment-485133528) & [maintainer's comment](https://github.com/vuejs/vue/issues/9573#issuecomment-485272060) | Vue.js | The problem showed in the issue cannot be solved in the current version, but a maintainer authorized my workaround as a feasible alternative in the current version |
+| 12 | [PR](https://github.com/gnab/remark/pull/564) | remark.js | Based on the problem existing in class slides, I created a pull request to fix the scrolling events in the original library. |
