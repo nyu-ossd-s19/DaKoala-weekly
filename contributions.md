@@ -40,3 +40,4 @@ Replace the first row with your contribution.
 | 12 | [workaround](https://github.com/vuejs/vue/issues/9573#issuecomment-485133528) & [maintainer's comment](https://github.com/vuejs/vue/issues/9573#issuecomment-485272060) | Vue.js | The problem showed in the issue cannot be solved in the current version, but a maintainer authorized my workaround as a feasible alternative in the current version |
 | 12 | [PR](https://github.com/gnab/remark/pull/564) | remark.js | Based on the problem existing in class slides, I created a pull request to fix the scrolling events in the original library. |
 | 13 | [issue](https://github.com/joannakl/ossd_s19/issues/17) & [PR](https://github.com/joannakl/ossd_s19/pull/18) | Course Website | I fixed an error in the Markdown template of a slide and fixed a typo. |
+| 13 | [PR](https://github.com/vuejs/vuejs.org/pull/2140) (merged) | Vue.js | Based on a previous issue, I added a tip to the document. |
