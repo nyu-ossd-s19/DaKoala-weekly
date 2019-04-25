@@ -41,3 +41,4 @@ Replace the first row with your contribution.
 | 12 | [PR](https://github.com/gnab/remark/pull/564) | remark.js | Based on the problem existing in class slides, I created a pull request to fix the scrolling events in the original library. |
 | 13 | [issue](https://github.com/joannakl/ossd_s19/issues/17) & [PR](https://github.com/joannakl/ossd_s19/pull/18) | Course Website | I fixed an error in the Markdown template of a slide and fixed a typo. |
 | 13 | [PR](https://github.com/vuejs/vuejs.org/pull/2140) (merged) | Vue.js | Based on a previous issue, I added a tip to the document. |
+| 13 | [PR](https://github.com/vuejs/cn.vuejs.org/pull/910) (merged) | Vue.js | Add the translation corresponding to the change above to the Chinese document. |
