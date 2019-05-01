@@ -42,4 +42,5 @@ Replace the first row with your contribution.
 | 13 | [issue](https://github.com/joannakl/ossd_s19/issues/17) & [PR](https://github.com/joannakl/ossd_s19/pull/18) | Course Website | I fixed an error in the Markdown template of a slide and fixed a typo. |
 | 13 | [PR](https://github.com/vuejs/vuejs.org/pull/2140) (merged) | Vue.js | Based on a previous issue, I added a tip to the document. |
 | 13 | [PR](https://github.com/vuejs/cn.vuejs.org/pull/910) (merged) | Vue.js | Add the translation corresponding to the change above to the Chinese document. |
-| 13 | [PR](https://github.com/vuejs/vue/pull/9919) | Vue.js | Check whether a tag is defined in Web Component. This feature will be added to Vue.js in the next minor version. | 
+| 13 | [PR](https://github.com/vuejs/vue/pull/9919) | Vue.js | Check whether a tag is defined in Web Component. This feature will be added to Vue.js in the next minor version. |
+| 14 | [issue](https://github.com/Microsoft/TypeScript/issues/31197) | TypeScript | A problem I had when I coded TypeScript. |
